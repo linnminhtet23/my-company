@@ -23,7 +23,7 @@ function Footer2() {
               </li>
               <li>
                 <NavLink
-                  href="https://www.creative-tim.com/presentation?ref=adspr-footer2"
+                  href="#"
                   target="_blank"
                 >
                   About Us
@@ -31,7 +31,7 @@ function Footer2() {
               </li>
               <li>
                 <NavLink
-                  href="https://creative-tim.com/blog?ref=adspr-footer2"
+                  href="#"
                   target="_blank"
                 >
                   Blog
@@ -39,7 +39,7 @@ function Footer2() {
               </li>
               <li>
                 <NavLink
-                  href="https://www.creative-tim.com/license?ref=adspr-footer2"
+                  href="#"
                   target="_blank"
                 >
                   License
@@ -52,7 +52,7 @@ function Footer2() {
             <a
               className="copyright-link"
               href="#"
-              target="_blank"
+              // target="_blank"
             >
               Our Company
             </a>
